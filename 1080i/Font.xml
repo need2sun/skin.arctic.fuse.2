@@ -56,6 +56,15 @@
         </include>
     </fontset>
 
+    <fontset id="Anek - Tamil" unicode="true">
+        <include content="Font_Default">
+            <param name="font_black">AnekTamil-Bold.ttf</param>
+            <param name="font_bold">AnekTamil-Bold.ttf</param>
+            <param name="font_regular">AnekTamil-Regular.ttf</param>
+            <param name="font_light">AnekTamil-Light.ttf</param>
+        </include>
+    </fontset>
+
     <fontset id="CJK - Chinese / Japanese / Korean" unicode="true">
         <include content="Font_Default">
             <param name="font_black">resource://resource.font.robotocjksc/RobotoCondensedCJK-Bold.ttf</param>
