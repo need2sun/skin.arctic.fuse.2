@@ -56,6 +56,24 @@
         </include>
     </fontset>
 
+    <fontset id="Anek - Tamil" unicode="true">
+        <include content="Font_Default">
+            <param name="font_black">AnekTamil-Bold.ttf</param>
+            <param name="font_bold">AnekTamil-Bold.ttf</param>
+            <param name="font_regular">AnekTamil-Regular.ttf</param>
+            <param name="font_light">AnekTamil-Light.ttf</param>
+        </include>
+    </fontset>
+
+    <fontset id="BalooThambi2 - Tamil" unicode="true">
+        <include content="Font_Default">
+            <param name="font_black">BalooThambi2-ExtraBold.ttf</param>
+            <param name="font_bold">BalooThambi2-Bold.ttf</param>
+            <param name="font_regular">BalooThambi2-Medium.ttf</param>
+            <param name="font_light">BalooThambi2-Regular.ttf</param>
+        </include>
+    </fontset>
+
     <fontset id="CJK - Chinese / Japanese / Korean" unicode="true">
         <include content="Font_Default">
             <param name="font_black">resource://resource.font.robotocjksc/RobotoCondensedCJK-Bold.ttf</param>
